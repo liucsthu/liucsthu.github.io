@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Taishan Honorred College, Shandong University, 2012-2016
-* Ph.D in Department of computer and science, Tsinghua University, 2016-2021 
+* B.S. in aishan Honors College, Shandong University, Computer Science and Technology, 2012-2016
+* Ph.D in Department of computer and science, Tsinghua University,Computer Science and Technology, 2016-2021 
 
 Work experience
 ======
