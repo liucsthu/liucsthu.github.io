@@ -15,7 +15,7 @@ Resaearch Interest
 
 Medical data mining; medical text mining; deep learning; 
 
-Contact me
+Email
 ======
 liu21cs@sdu.edu.cn  
 
