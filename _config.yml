@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ning Liu/ Assistant Processor, School of Software, Shandong University"
+title                    : "Ning Liu/ Doctor of Philosophy"
 title_separator          : "-"
 name                     : &name "Ning Liu"
 description              : &description "Medical data mining; medical text mining"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ning Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Processor, School of Software, Shandong University"
   location         : "Jinan Shandong China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
