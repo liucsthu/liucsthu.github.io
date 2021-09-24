@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ning Liu/ Ph.D"
+title                    : "Ning Liu"
 title_separator          : "-"
 name                     : &name "Ning Liu"
 description              : &description "Medical data mining; medical text mining"
