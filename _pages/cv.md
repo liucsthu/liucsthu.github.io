@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in aishan Honors College, Shandong University, Computer Science and Technology, 2012-2016
+* B.S. in Taishan Honors College, Shandong University, Computer Science and Technology, 2012-2016
 * Ph.D in Department of computer and science, Tsinghua University,Computer Science and Technology, 2016-2021 
 
 Work experience
@@ -27,12 +27,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -41,4 +41,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Volunteer in ICDM 19
+* Reviewer of Journel of Software 
+* Reviewer of TKDD 
+* PC of KDD 21, ADS Track 
