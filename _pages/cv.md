@@ -36,6 +36,6 @@ Teaching
 Service and leadership
 ======
 * Student Volunteer in ICDM 19
-* Reviewer of Journel of Software 
+* Reviewer of Journal of Software 
 * Reviewer of TKDD 
 * PC of KDD 21, ADS Track 
