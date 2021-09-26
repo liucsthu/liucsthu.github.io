@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ning Liu, an assistant professor in School of Software, Shandong University(Jinan Campus). Before that, I received my Ph.D. degree from Department of Computer Science and Technology, Tsinghua University in 2021, advised by Professor Jianyong Wang (IEEE Fellow). In 2016, I received my bachelor's degree from Taishan Honors College, Shandong University, majoring in computer science and technology. For more details, please refer to my CV.
+I'm Ning Liu, an assistant professor in School of Software, Shandong University(Jinan Campus). Before that, I received my Ph.D. degree from Department of Computer Science and Technology, Tsinghua University in 2021, advised by Professor [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/) (IEEE Fellow). In 2016, I received my bachelor's degree from Taishan Honors College, Shandong University, majoring in computer science and technology. For more details, please refer to my CV.
 
 Research Interest 
 ======
