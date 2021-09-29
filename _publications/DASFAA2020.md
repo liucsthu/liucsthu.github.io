@@ -8,7 +8,6 @@ venue: 'DASFAA, CCF B'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-59410-7_26'
 citation: 'Liu N., Zhang W., Li X., Yuan H., Wang J. (2020) Coupled Graph Convolutional Neural Networks for Text-Oriented Clinical Diagnosis Inference. In: Nah Y., Cui B., Lee SW., Yu J.X., Moon YS., Whang S.E. (eds) Database Systems for Advanced Applications. DASFAA 2020. Lecture Notes in Computer Science, vol 12112. Springer, Cham. https://doi.org/10.1007/978-3-030-59410-7_26'
 ---
-
 Text-oriented clinical diagnosis inference is to predict a set of
 diagnoses for a specific patient given its medical notes. Due to the great
 potential of automatic diagnosis inference, machine learning methods
@@ -22,6 +21,6 @@ semantic space. The comprehensive results on two real datasets show
 that our method outperforms the state-of-art methods in text-oriented
 diagnosis inference.
 
-
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_26)
 
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
