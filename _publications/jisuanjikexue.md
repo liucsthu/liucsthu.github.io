@@ -19,3 +19,4 @@ the experimental results show that the proposed method has better performance an
 
 [Download paper here](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19362)
 
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
