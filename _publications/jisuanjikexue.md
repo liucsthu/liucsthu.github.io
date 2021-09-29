@@ -1,7 +1,7 @@
 ---
 title: "MTHAM:Multitask Disease Progression Modeling Based on Hierarchical Attention Mechanism"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/jisuanjikexue
 excerpt: 'Deep Learning for Alzheimer’s disease'
 date: 2020-08-08
 venue: 'ICDE, CCF A'
