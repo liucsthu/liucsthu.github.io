@@ -10,5 +10,8 @@ citation: 'Liu N., Zhang W., Li X., Yuan H., Wang J. (2020) Coupled Graph Convol
 ---
 
 
+Coupled Graph Neural Networks for Text-oriented Clinical Diagnosis Inference
+
+
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_26)
 
