@@ -17,7 +17,7 @@ Medical data mining; Medical text mining; Deep learning;
 
 Email
 ======
-liu21cs@sdu.edu.cn  
+liun21cs@sdu.edu.cn or victorliucs@gmail.com  
 
 
 
