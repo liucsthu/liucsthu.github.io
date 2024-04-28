@@ -12,4 +12,4 @@ Text-oriented clinical diagnosis inference is to predict a set of diagnoses for 
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_26)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
