@@ -1,0 +1,12 @@
+---
+title: "Feature-Guided Logical Perception Network for Health Risk Prediction"
+collection: publications
+permalink: /publication/BIBM2022
+excerpt: 'Medical Data Mining'
+date: 2023-01-02
+venue: 'BIBM, CAAI B'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9995625'
+citation: 'F. Yu, L. Cui, Y. Cao, F. Zhu, Y. Xu and N. Liu, "Feature-Guided Logical Perception Network for Health Risk Prediction," 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022, pp. 1787-1790, doi: 10.1109/BIBM55620.2022.9995625.'
+---
+Massive EHR (electronic health records) data contains rich health-related information and offers valuable opportunities for healthcare prediction tasks. Most existing works have achieved great success in improving the accuracy of prediction by leveraging deep learning to model sequential EHR data. However, entangled patient modeling results in inability of quantifying the importance of each type of feature. In this paper, we propose a feature-guided logical perception network FeLON for health risk prediction. FeLON is built on model-level explanation and consists of two main steps. The core part of the first step is a logical perception network to extract logical rules from patient features. In the second step, FeLON builds a fully-connected layer to integrate logical rules information to calculate health risk. Extensive experiments are conducted on two real disease datasets. The experimental results demonstrate that FeLON is able to maintain high prediction accuracy while bringing transparent reasoning process.
+[Download paper here](https://doi.org/10.1007/978-3-031-20500-2_36)
