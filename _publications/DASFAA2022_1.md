@@ -1,5 +1,5 @@
 ---
-title: "Susceptible Temporal Patterns Discovery for Electronic Health Records via Adversarial Attack"
+title: "Similarity-Aware Collaborative Learning for Patient Outcome Prediction"
 collection: publications
 permalink: /publication/dasfaa2022_1
 excerpt: 'medical data mining'
