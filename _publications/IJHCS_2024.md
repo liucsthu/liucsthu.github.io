@@ -1,7 +1,7 @@
 ---
 title: "Longitudinal assessment of the effects of passive training on stroke rehabilitation using fNIRS technology"
 collection: publications
-permalink:https://dl.acm.org/doi/10.1016/j.ijhcs.2023.103202
+permalink:/publication/IJHCS2024
 excerpt: 'Interpretable machine learning'
 date: 2024-03-14
 venue: 'IJHCS, CCF A'
