@@ -21,7 +21,7 @@ I'm Ning Liu, an assistant professor in School of Software, Shandong University(
 Research Interest 
 ======
 
-Medical data mining; Medical text mining; Deep learning; 
+Medical data mining; Knowledge Enhanced Applications; Knowledge Graphs; Interpretable Machine Learning; Large Models; 
 
 Email
 ======
