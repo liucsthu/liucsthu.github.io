@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CACAI2022
 excerpt: 'Medical Data Mining'
 date: 2023-01-01
-venue: 'CACAI, CAAI B'
+venue: 'CACAI, CAAI A'
 paperurl: 'https://doi.org/10.1007/978-3-031-20500-2_36'
 citation: 'Yang, X. et al. (2022). Clinical Phenotyping Prediction via Auxiliary Task Selection and Adaptive Shared-Space Correction. In: Fang, L., Povey, D., Zhai, G., Mei, T., Wang, R. (eds) Artificial Intelligence. CICAI 2022. Lecture Notes in Computer Science(), vol 13605. Springer, Cham. https://doi.org/10.1007/978-3-031-20500-2_36'
 ---
