@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Taishan Honors College, Shandong University, Computer Science and Technology, 2012-2016
-* Ph.D in Department of computer and science, Tsinghua University,Computer Science and Technology, 2016-2021 
+* Ph.D in Department of computer and science, Tsinghua University, Computer Science and Technology, 2016-2021 
 
 Work experience
 ======
@@ -38,4 +38,5 @@ Service and leadership
 * Student Volunteer in ICDM 19
 * Reviewer of Journal of Software 
 * Reviewer of TKDD 
-* PC of KDD 21, ADS Track 
+* PC of KDD 21, ADS Track
+* PC or reviewer of top conferences such as ACL、IJCAI、CIKM、KDD、EACL、SIGMM、APWeb-WAIM in 2024 
