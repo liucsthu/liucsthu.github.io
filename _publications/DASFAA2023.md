@@ -6,7 +6,7 @@ excerpt: 'Data-Centric AI'
 date: 2023-04-14
 venue: 'DASFAA, CCF B'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-30672-3_54'
-citation: 'Zhang, K. et al. (2023). Sample and Feature Enhanced Few-Shot Knowledge Graph Completion. In: Wang, X., et al. Database Systems for Advanced Applications. DASFAA 2023. Lecture Notes in Computer Science, vol 13944. Springer, Cham. https://doi.org/10.1007/978-3-031-30672-3_54.'
+citation: 'Kai Zhang, Daokun Zhang, Ning Liu, Yonghua Yang, Yonghui Xu, Zhongmin Yan, Hui Li, Lizhen Cui. (2023). Sample and Feature Enhanced Few-Shot Knowledge Graph Completion. In: Wang, X., et al. Database Systems for Advanced Applications. DASFAA 2023. Lecture Notes in Computer Science, vol 13944. Springer, Cham. https://doi.org/10.1007/978-3-031-30672-3_54.'
 ---
 
 
