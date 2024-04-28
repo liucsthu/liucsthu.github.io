@@ -12,4 +12,3 @@ The recent advancements in deep neural networks (DNNs) are revolutionizing the h
 
 [Download paper here](https://www.springerprofessional.de/en/susceptible-temporal-patterns-discovery-for-electronic-health-re/19040914)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
