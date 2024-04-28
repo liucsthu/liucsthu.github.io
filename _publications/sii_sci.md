@@ -12,5 +12,3 @@ Risk prediction using nomogram
 
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107607/)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
