@@ -84,9 +84,9 @@ author:
   avatar           : "liun.png"
   bio              : "Assistant Professor, School of Software, Shandong University"
   location         : "Jinan Shandong China"
-  employer         :
+  employer         :  "Shandong University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fL1FZ-QAAAAJ&hl=en"
   email            : "liun21cs@sdu.edu.cn or victorliucs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
