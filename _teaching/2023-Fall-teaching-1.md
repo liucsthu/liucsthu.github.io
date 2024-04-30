@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Shandong University, School of Software"
-date: 2023-09-01
+date: Fall
 location: "Jinan, China"
 ---
